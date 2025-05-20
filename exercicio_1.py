@@ -55,7 +55,6 @@ genes = {
     "FMR1": 38000,
 }
 
-# Criar seu código a partir daqui
 gene = str(input('Digite o nome do gene: ')).upper()
 
 if gene in genes:
